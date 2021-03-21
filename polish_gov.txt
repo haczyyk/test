@@ -1,0 +1,28 @@
+{
+      "gov": "Poland",
+      "president": [
+            {
+                  "name": "Aleksander",
+                  "surname": "Duda",
+                  "language": "Pl"
+            }
+      ],
+      "politicians": [
+            {
+                  "name": "Marcin",
+                  "surname": "Kwasik",
+                  "Language": [
+                        "PL",
+                        "Eng",
+                        "Fr"
+                  ]
+            },
+            {
+                  "name": "Sylwek",
+                  "surname": "Jamik",
+                  "Language": [
+                        "PL"
+                  ]
+            }
+      ]
+}
